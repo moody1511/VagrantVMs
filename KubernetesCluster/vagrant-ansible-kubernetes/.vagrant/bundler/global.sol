@@ -1,0 +1,1 @@
+{"dependencies":[["vagrant-vmware-desktop",["= 2.1.1"]]],"checksum":"9934c75f5b634f0a42b9b6bf307c85e84b6155d83a0f6b42c32381c00929e3aa","vagrant_version":"2.2.9"}
